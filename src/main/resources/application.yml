@@ -1,0 +1,10 @@
+kafka:
+  host: localhost:9092
+  topic:
+    demo: sample
+
+logging:
+  level:
+    root: INFO
+    org.springframework.web: INFO
+    com.memorynotfound: INFO
